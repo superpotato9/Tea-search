@@ -43,6 +43,12 @@ origins = [
     "http://localhost:63342",
     "http://127.0.0.1",
     "http://localhost:8080",
+    "https://localhost:8000",
+    "https://localhost"
+    "http://0.0.0.0",
+    "https://0.0.0.0",
+    "https://nathank.page",
+    "http://nathan.page"
 ]
 app.add_middleware(
     CORSMiddleware,
@@ -84,4 +90,4 @@ def search_endpoint(
 
 
 if __name__ == "__main__":
-    uvicorn.run(app, host="127.0.0.1", port=8000)
+    uvicorn.run(app, host="localhost", port=8000)
