@@ -2,45 +2,52 @@ Name ,Type,caffeine ,ingredients,Brand ,Package  type,amount per cup volume,amou
 Mango Black Tea Decaf,Black Tea (Decaf),False,"DECAF Black Tea, Mango Flavor",MarketSpice,Loose Leaf,1 tsp / 6 oz,2.0,3-5,https://marketspice.com/products/mango-steam-pressure-decaf-tea
 Scarlet Rishi botanical blend,Herbal Blend,False,Botanical blend (varies by batch; commonly hibiscus/rosehips/citrus peel/herbs & natural flavors),Rishi,Loose Leaf,1 tsp / 8 oz,2.0,5-7,
 Sunset in Seattle,Herbal Blend,False,"Rosehips, Vanilla Powder, Chamomile, Raspberry Leaves, Lemon Grass, Wild Cherry Bark, Lavender, Peppermint, Spearmint, Lemon Peel & Spices",MarketSpice,Loose Leaf,1 tsp / 8 oz,2.0,5-7,https://marketspice.com/products/sunset-in-seattle-tea
-Black tea mango berry ,Black Tea (Flavored),True,"Black Tea, Mango Flavoring, Berry Flavoring",MarketSpice,Iced Tea (6-pack),N/A (ready-to-drink),N/A,N/A,https://marketspice.com/products/mango-berry-tea?srsltid=AfmBOoqlw_s3eeCPBE2Fui1y_1jKTymA_fpyYpy640KdO1FDEGbRYueP
-Dragon Oolong,Oolong Tea,True,Oolong Tea,The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2,3,https://marketspice.com/products/huckleberry-tea?_pos=3&_sid=a1bca0e20&_ss=r
-Deaf black Huckleberry,"Black Tea (Decaf, Flavored)",False,"DECAF Black Tea, Flavoring",MarketSpice,Tea Bags,1 tea bag / 8 oz,2,3-5,https://marketspice.com/products/huckleberry-decaf-24ct-teabag-box
-Bridgerton Featherington - blood orange momosa Tea ,Herbal Blend,False,Organic Red Rooibos (leaf); Orange (peel); Natural Blood Orange Flavor; Natural Mimosa Flavor,The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2,5-7,https://www.republicoftea.com/bridgerton-featherington-blood-orange-mimosa-herbal-tea/p/v21300/
-Pineapple Lychee Hibiscus,Herbal Hibiscus Blend,False,Organic Hibiscus (flower); Organic Green Rooibos (leaf); Organic Orange Peel; Natural Pineapple & Lychee Flavors; Organic Licorice Root; Organic Monk Fruit,The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2,5-7,
-Hawiian Breeze,Herbal Blend,False,Tropical fruit herbal blend (ingredients not found),Market Spice ,Tea Bags,1 tea bag / 8 oz,2,5,
-12th Breakfast Blend,Black Tea,True,Black tea blend,,Tea Bags,1 tea bag / 8 oz,2,3-5,idk 
-Spiced Cider,Herbal Blend,False,Spiced apple/cider-style herbal blend,Market Spice ,Tea Bags,1 tea bag / 8 oz,2,5-7,
-Well Rested Herbal Tea ,Herbal Blend,False,Herbal blend for sleep (ingredients not found),The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2,5-7,
-Hibiscus Watermelon,Herbal Hibiscus Blend,False,"Hibiscus (flower), Apple, Natural Watermelon Flavor, Stevia (leaf) (exact blend may vary)",The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2,5-7,
-Kuki-Cha Tokusen ,Green Tea (Kukicha),True,Kukicha (green tea stems/twigs),Masuda-en,Loose Leaf,1 tsp / 8 oz,2,2-3,
-Iced Passion ,Herbal Blend,False,"Hibiscus flowers, orange peel, rose hips, lemongrass, licorice root, cinnamon, passion fruit flavor and other natural flavors",Tazo,Tea Bags,1 tea bag / 8 oz,2,5,
-Fine English Breakfast Blend,Black Tea,True,Black tea blend,New English Teas,Tea Bags,1 tea bag / 8 oz,2,3-5,
-Liption Iced Tea,Black Tea,True,Black tea,Lipton,Tea Bags,1 tea bag / 8 oz (or per pitcher directions),2,3-5,
-Jingle Bell Black Tea,Black Tea (Flavored),True,"Black Tea, Peppermint Leaves, Rosebuds & Petals, Stevia Herb, Coffee Creme Flavor",MarketSpice,Loose Leaf,1 tsp / 8 oz,2,3-5,https://marketspice.com/products/jingle-bell-black-tea
-Ube Mango Sorbet,Herbal Blend,False,"Organic green rooibos, apple, organic white hibiscus, blue butterfly pea flower, ube, mango and natural flavors",The Republic of Tea,Tea Bags,1 tea bag / 8 oz,2,5-7,https://www.worldmarket.com/p/the-republic-of-tea-ube-mango-sorbet-herbal-tea-36-count-645796.html
-fox and rabbit Herbal ,Herbal Tisane (Rooibos),False,"Rooibos Tea, Rosehips, Fruit Pieces, Calendula Flowers, Mango & Apricot Flavorings",MarketSpice,Loose Leaf,1 tsp / 8 oz,2,5-6,https://marketspice.com/products/fox-rabbit-story-time-tisane-tea
-Scottish Breakfast Tea,Black Tea,True,Black tea blend (Scottish Breakfast style),Edinburgh Tea & Coffee,Tea Bags,1 tea bag / 8 oz,2,3-5,
-Get Burning Herb Tea,Herbal Blend,False,Organic Green Rooibos (leaf); Ginger (root); Cinnamon (cassia); Holy Basil (leaf); Black Pepper (berry); Cloves (bud); Chili Peppers (fruit); Cordyceps Extract (fungus); Stevia (leaf); Natural flavor,The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2,5-7,https://www.republicoftea.com/get-burning-herb-tea-for-metabolism/p/v01090/
-Earl Grey ,Black Tea (Earl Grey),True,Black tea with bergamot oil / natural bergamot flavor,Numi,Tea Bags,1 tea bag / 8 oz,2,3-4,
-numi breakfest blend ,Black Tea,True,Black tea blend,Numi,Tea Bags,1 tea bag / 8 oz,2,3-5,
-chamomile and lavender ,Herbal Tea,False,"Chamomile, lavender and other herbal ingredients (brand blend)",Bigelow,Tea Bags,1 tea bag / 8 oz,2,4,
-Thistle tea,Herbal Tea,False,Herbal blend (thistle-themed; ingredients not found),Edinburgh Tea & Coffee,Tea Bags,1 tea bag / 8 oz,2,5,
-Scottish Breakfast Tea,Black Tea,True,Black tea blend (Scottish Breakfast style),Edinburgh Tea & Coffee,Tea Bags,1 tea bag / 8 oz,2,3-5,
-Cardamon Cinnamon,Herbal Tea,False,"Cinnamon, ginger, cardamom, chicory, black pepper, cloves, carob, natural flavor and star anise",The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2,5-7,https://www.republicoftea.com/cardamom-cinnamon-herbal-tea/p/v00677/
-Organic mint fields ,Herbal Mint Tea,False,Organic peppermint and/or spearmint (exact blend not found),The Republic of Tea,Tea Bags,1 tea bag / 6-8 oz,2,5-7,
-Lady Grey Tea,Black Tea (Earl Grey/Lady Grey),True,Black tea with citrus/bergamot flavoring,Twinings,Tea Bags,1 tea bag / 8 oz,2,3-4,
-Blooming green tea Flower,Blooming Green Tea,True,Green tea and edible flowers (varies by bloom),Tea Bloom,Blooming Tea Ball,1 bloom / 12-16 oz,5,3-5,
-Peach Hibiscus ,Herbal Hibiscus Blend,False,"Hibiscus, watermelon flavor and botanicals (exact blend not found)",Rishi,Loose Leaf,1 tsp / 8 oz,2,5-7,
-Matcha ,Matcha (Green Tea Powder),True,Matcha green tea powder,Focus,Powder,1/2 tsp / 6-8 oz,1,N/A (whisk),
-English Breakfast ,Black Tea,True,Black tea blend,Twinings,Tea Bags,1 tea bag / 8 oz,2,3-5,
-Hibuscus watermelon Herbal Tea,Herbal Hibiscus Blend,False,"Hibiscus (flower), apple, natural watermelon flavor, stevia (leaf) (exact blend may vary)",The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2,5-7,
-Majestic Breakfast,Black Tea,True,Black tea blend,Ahmad Tea (Beyond the Leaf),Tea Bags,1 tea bag / 8 oz,2,3-5,
-Garden Afternoon,Black Tea,True,Black tea blend,Ahmad Tea,Tea Bags,1 tea bag / 8 oz,2,3-5,
-Darjeening Silver Tips,Black Tea (Darjeeling),True,Darjeeling black tea (silver tips),Bagan Fresh,Loose Leaf,1 tsp / 8 oz,2,3-4,
-Assam Gold Tips,Black Tea (Assam),True,Assam black tea (gold tips),Bagan Fresh,Loose Leaf,1 tsp / 8 oz,2,3-5,
-Darjeening First Flush,Black Tea (Darjeeling),True,Darjeeling black tea (first flush),Bagan Fresh,Loose Leaf,1 tsp / 8 oz,2,2-3,
-Saffron Masala Chai,Chai (Black Tea Blend),True,"Black tea blended with spices (cinnamon, cardamom, cloves, ginger) and saffron (exact blend not found)",Bagan Fresh,Loose Leaf,1 tsp / 8 oz,2,4-5,
-Fox and Rabbit  ,Herbal Tisane (Rooibos),False,"Rooibos Tea, Rosehips, Fruit Pieces, Calendula Flowers, Mango & Apricot Flavorings",MarketSpice,Loose Leaf,1 tsp / 8 oz,2,5-6,https://marketspice.com/products/fox-rabbit-story-time-tisane-tea
-Blueberry Hbiscus ,Herbal Hibiscus Blend,False,"Organic hibiscus (flower), blueberry flavor and other botanicals (exact blend not found)",The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2,5-7,
-Seattle Suprise,Black Tea (Flavored),True,"Black Tea, Orange Peel, Pineapple Pieces, Orange & Mango Flavors",MarketSpice,Loose Leaf,1 tsp / 8 oz,2,3-5,https://marketspice.com/products/seattle-surprise-tea
-Emerald Princess Tea,Green Tea (Flavored),True,"Green Tea, Rosebuds and Petals, Lavender Flavor",MarketSpice,Loose Leaf,1 tsp / 8 oz,2,2-3,https://marketspice.com/products/emerald-princess-green-tea
+Black tea mango berry ,Black Tea (Flavored),True,"Black Tea, Mango Flavoring, Berry Flavoring",MarketSpice,Iced Tea (6-pack),N/A (ready-to-drink),,,https://marketspice.com/products/mango-berry-tea?srsltid=AfmBOoqlw_s3eeCPBE2Fui1y_1jKTymA_fpyYpy640KdO1FDEGbRYueP
+Dragon Oolong,Oolong Tea,True,Oolong Tea,The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2.0,3,https://marketspice.com/products/huckleberry-tea?_pos=3&_sid=a1bca0e20&_ss=r
+Deaf black Huckleberry,"Black Tea (Decaf, Flavored)",False,"DECAF Black Tea, Flavoring",MarketSpice,Tea Bags,1 tea bag / 8 oz,2.0,3-5,https://marketspice.com/products/huckleberry-decaf-24ct-teabag-box
+Bridgerton Featherington - blood orange momosa Tea ,Herbal Blend,False,Organic Red Rooibos (leaf); Orange (peel); Natural Blood Orange Flavor; Natural Mimosa Flavor,The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2.0,5-7,https://www.republicoftea.com/bridgerton-featherington-blood-orange-mimosa-herbal-tea/p/v21300/
+Pineapple Lychee Hibiscus,Herbal Hibiscus Blend,False,Organic Hibiscus (flower); Organic Green Rooibos (leaf); Organic Orange Peel; Natural Pineapple & Lychee Flavors; Organic Licorice Root; Organic Monk Fruit,The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2.0,5-7,
+Hawiian Breeze,Herbal Blend,False,Tropical fruit herbal blend (ingredients not found),Market Spice ,Tea Bags,1 tea bag / 8 oz,2.0,5,
+12th Breakfast Blend,Black Tea,True,Black tea blend,,Tea Bags,1 tea bag / 8 oz,2.0,3-5,idk 
+Spiced Cider,Herbal Blend,False,Spiced apple/cider-style herbal blend,Market Spice ,Tea Bags,1 tea bag / 8 oz,2.0,5-7,
+Well Rested Herbal Tea ,Herbal Blend,False,Herbal blend for sleep (ingredients not found),The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2.0,5-7,
+Hibiscus Watermelon,Herbal Hibiscus Blend,False,"Hibiscus (flower), Apple, Natural Watermelon Flavor, Stevia (leaf) (exact blend may vary)",The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2.0,5-7,
+Kuki-Cha Tokusen ,Green Tea (Kukicha),True,Kukicha (green tea stems/twigs),Masuda-en,Loose Leaf,1 tsp / 8 oz,2.0,2-3,
+Iced Passion ,Herbal Blend,False,"Hibiscus flowers, orange peel, rose hips, lemongrass, licorice root, cinnamon, passion fruit flavor and other natural flavors",Tazo,Tea Bags,1 tea bag / 8 oz,2.0,5,
+Fine English Breakfast Blend,Black Tea,True,Black tea blend,New English Teas,Tea Bags,1 tea bag / 8 oz,2.0,3-5,
+Liption Iced Tea,Black Tea,True,Black tea,Lipton,Tea Bags,1 tea bag / 8 oz (or per pitcher directions),2.0,3-5,
+Jingle Bell Black Tea,Black Tea (Flavored),True,"Black Tea, Peppermint Leaves, Rosebuds & Petals, Stevia Herb, Coffee Creme Flavor",MarketSpice,Loose Leaf,1 tsp / 8 oz,2.0,3-5,https://marketspice.com/products/jingle-bell-black-tea
+Ube Mango Sorbet,Herbal Blend,False,"Organic green rooibos, apple, organic white hibiscus, blue butterfly pea flower, ube, mango and natural flavors",The Republic of Tea,Tea Bags,1 tea bag / 8 oz,2.0,5-7,https://www.worldmarket.com/p/the-republic-of-tea-ube-mango-sorbet-herbal-tea-36-count-645796.html
+fox and rabbit Herbal ,Herbal Tisane (Rooibos),False,"Rooibos Tea, Rosehips, Fruit Pieces, Calendula Flowers, Mango & Apricot Flavorings",MarketSpice,Loose Leaf,1 tsp / 8 oz,2.0,5-6,https://marketspice.com/products/fox-rabbit-story-time-tisane-tea
+Scottish Breakfast Tea,Black Tea,True,Black tea blend (Scottish Breakfast style),Edinburgh Tea & Coffee,Tea Bags,1 tea bag / 8 oz,2.0,3-5,
+Get Burning Herb Tea,Herbal Blend,False,Organic Green Rooibos (leaf); Ginger (root); Cinnamon (cassia); Holy Basil (leaf); Black Pepper (berry); Cloves (bud); Chili Peppers (fruit); Cordyceps Extract (fungus); Stevia (leaf); Natural flavor,The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2.0,5-7,https://www.republicoftea.com/get-burning-herb-tea-for-metabolism/p/v01090/
+Earl Grey ,Black Tea (Earl Grey),True,Black tea with bergamot oil / natural bergamot flavor,Numi,Tea Bags,1 tea bag / 8 oz,2.0,3-4,
+numi breakfest blend ,Black Tea,True,Black tea blend,Numi,Tea Bags,1 tea bag / 8 oz,2.0,3-5,
+chamomile and lavender ,Herbal Tea,False,"Chamomile, lavender and other herbal ingredients (brand blend)",Bigelow,Tea Bags,1 tea bag / 8 oz,2.0,4,
+Thistle tea,Herbal Tea,False,Herbal blend (thistle-themed; ingredients not found),Edinburgh Tea & Coffee,Tea Bags,1 tea bag / 8 oz,2.0,5,
+Scottish Breakfast Tea,Black Tea,True,Black tea blend (Scottish Breakfast style),Edinburgh Tea & Coffee,Tea Bags,1 tea bag / 8 oz,2.0,3-5,
+Cardamon Cinnamon,Herbal Tea,False,"Cinnamon, ginger, cardamom, chicory, black pepper, cloves, carob, natural flavor and star anise",The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2.0,5-7,https://www.republicoftea.com/cardamom-cinnamon-herbal-tea/p/v00677/
+Organic mint fields ,Herbal Mint Tea,False,Organic peppermint and/or spearmint (exact blend not found),The Republic of Tea,Tea Bags,1 tea bag / 6-8 oz,2.0,5-7,
+Lady Grey Tea,Black Tea (Earl Grey/Lady Grey),True,Black tea with citrus/bergamot flavoring,Twinings,Tea Bags,1 tea bag / 8 oz,2.0,3-4,
+Blooming green tea Flower,Blooming Green Tea,True,Green tea and edible flowers (varies by bloom),Tea Bloom,Blooming Tea Ball,1 bloom / 12-16 oz,5.0,3-5,
+Peach Hibiscus ,Herbal Hibiscus Blend,False,"Hibiscus, watermelon flavor and botanicals (exact blend not found)",Rishi,Loose Leaf,1 tsp / 8 oz,2.0,5-7,
+Matcha ,Matcha (Green Tea Powder),True,Matcha green tea powder,Focus,Powder,1/2 tsp / 6-8 oz,1.0,N/A (whisk),
+English Breakfast ,Black Tea,True,Black tea blend,Twinings,Tea Bags,1 tea bag / 8 oz,2.0,3-5,
+Hibuscus watermelon Herbal Tea,Herbal Hibiscus Blend,False,"Hibiscus (flower), apple, natural watermelon flavor, stevia (leaf) (exact blend may vary)",The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2.0,5-7,
+Majestic Breakfast,Black Tea,True,Black tea blend,Ahmad Tea (Beyond the Leaf),Tea Bags,1 tea bag / 8 oz,2.0,3-5,
+Garden Afternoon,Black Tea,True,Black tea blend,Ahmad Tea,Tea Bags,1 tea bag / 8 oz,2.0,3-5,
+Darjeening Silver Tips,Black Tea (Darjeeling),True,Darjeeling black tea (silver tips),Bagan Fresh,Loose Leaf,1 tsp / 8 oz,2.0,3-4,
+Assam Gold Tips,Black Tea (Assam),True,Assam black tea (gold tips),Bagan Fresh,Loose Leaf,1 tsp / 8 oz,2.0,3-5,
+Darjeening First Flush,Black Tea (Darjeeling),True,Darjeeling black tea (first flush),Bagan Fresh,Loose Leaf,1 tsp / 8 oz,2.0,2-3,
+Saffron Masala Chai,Chai (Black Tea Blend),True,"Black tea blended with spices (cinnamon, cardamom, cloves, ginger) and saffron (exact blend not found)",Bagan Fresh,Loose Leaf,1 tsp / 8 oz,2.0,4-5,
+Fox and Rabbit  ,Herbal Tisane (Rooibos),False,"Rooibos Tea, Rosehips, Fruit Pieces, Calendula Flowers, Mango & Apricot Flavorings",MarketSpice,Loose Leaf,1 tsp / 8 oz,2.0,5-6,https://marketspice.com/products/fox-rabbit-story-time-tisane-tea
+Blueberry Hbiscus ,Herbal Hibiscus Blend,False,"Organic hibiscus (flower), blueberry flavor and other botanicals (exact blend not found)",The Republic of Tea,Tea Bags,1 tea bag / 6 oz,2.0,5-7,
+Seattle Suprise,Black Tea (Flavored),True,"Black Tea, Orange Peel, Pineapple Pieces, Orange & Mango Flavors",MarketSpice,Loose Leaf,1 tsp / 8 oz,2.0,3-5,https://marketspice.com/products/seattle-surprise-tea
+Emerald Princess Tea,Green Tea (Flavored),True,"Green Tea, Rosebuds and Petals, Lavender Flavor",MarketSpice,Loose Leaf,1 tsp / 8 oz,2.0,2-3,https://marketspice.com/products/emerald-princess-green-tea
+Sister Ai’s “Seven Cakes” Tong Sampler (Mini-Tong Sampler),Sampler (Pu’er / Red / White),True,Assorted tea coins/cakes: Black Beauty; Thousand-Year Tree Wild Red Tea; Everyday Shou Pu’er; Everyday Ancient Tree White Tea; Everyday Ancient Tree Sheng Pu’er; Everyday Golden Pu’er; Everyday Ancient Tree Red Tea,Jesse's Teahouse (Sister Ai's),Sampler tong (7 tea coins × 7g),120ml (gaiwan) — 1 coin,7.0,Varies by tea (see instructions); typical 10–20 sec,https://jessesteahouse.com/products/sister-ai-s-seven-cakes-tong-sampler
+Sister Ai’s Everyday Golden Pu’er (2022),Sheng (Raw) Pu’er (Golden Cake),True,Tea leaves (Camellia sinensis) — sheng pu’er,Jesse's Teahouse (Sister Ai's),50g mini-cake,120ml (gaiwan),5.0,10–20 sec,https://jessesteahouse.com/en-us/products/sister-ai-s-everyday-golden-pu-er-2022
+Sister Ai’s Everyday Ancient Tree Shou Pu’er (2017),Shou (Cooked) Pu’er,True,Tea leaves (Camellia sinensis) — shou pu’er,Jesse's Teahouse (Sister Ai's),50g mini-cake,120ml (gaiwan),5.0,10–15 sec,https://jessesteahouse.com/en-us/products/sister-ai-s-everyday-shou-pu-er-2017
+Sister Ai’s Everyday Ancient Tree Sheng Pu’er (2022),Sheng (Raw) Pu’er,True,Tea leaves (Camellia sinensis) — sheng pu’er,Jesse's Teahouse (Sister Ai's),50g mini-cake,120ml (gaiwan),5.0,5–30 sec,https://jessesteahouse.com/en-us/products/sister-ais-everyday-at-sheng-puer-tea
+Sister Ai’s Black Beauty (2022),Novel production tea (Pu’er/Red/White method),True,Tea leaves (Camellia sinensis),Jesse's Teahouse (Sister Ai's),50g mini-cake,120ml (gaiwan),6.0,10–15 sec,https://jessesteahouse.com/en-us/products/sister-ai-s-black-beauty-2022
+Sister Ai’s Thousand-Year Tree Wild Red Tea (2022),Red Tea (Hong Cha),True,Tea leaves (Camellia sinensis) — red tea,Jesse's Teahouse (Sister Ai's),50g mini-cake,120ml (gaiwan),5.0,10–20 sec,https://jessesteahouse.com/products/thousand-year-wild-red-tea-2022-tms
+Sister Ai’s Everyday Ancient Tree Red Tea (2022),Red Tea (Hong Cha),True,Tea leaves (Camellia sinensis) — red tea,Jesse's Teahouse (Sister Ai's),50g mini-cake,120ml (gaiwan),5.0,15–20 sec,https://jessesteahouse.com/products/sister-ais-everyday-at-red-tea-2022
